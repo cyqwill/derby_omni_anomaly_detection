@@ -1,0 +1,1 @@
+{"max_epoch": 100, "max_train_size": 20000, "restore_dir": "model", "x_dim": 6}
